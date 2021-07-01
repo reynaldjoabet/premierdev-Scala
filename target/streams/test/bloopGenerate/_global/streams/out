@@ -1,0 +1,4 @@
+[debug] [premierdev-scala-test] Classpath dependencies List()
+[debug] [premierdev-scala-test] Dependencies from configurations List(premierdev-scala)
+[debug] Bloop wrote the configuration of project 'premierdev-scala-test' to '/Users/harmony/Desktop/Lightbend Academy/premierdev-scala/.bloop/premierdev-scala-test.json'
+[success] Generated .bloop/premierdev-scala-test.json

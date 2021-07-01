@@ -1,0 +1,4 @@
+[debug] [premierdev-scala-build] Classpath dependencies List()
+[debug] [premierdev-scala-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'premierdev-scala-build' to '/Users/harmony/Desktop/Lightbend Academy/premierdev-scala/project/.bloop/premierdev-scala-build.json'
+[success] Generated .bloop/premierdev-scala-build.json
